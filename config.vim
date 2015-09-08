@@ -61,8 +61,18 @@ set number
 set shiftwidth=4
 set softtabstop=4
 set expandtab
+set tabstop=4
+
+" make 'tab' insert indents instead of tabs at the beginning of a line
+set smarttab
+
+" always uses spaces instead of tab characters
+set expandtab
  
 " Indentation settings for using hard tabs for indent. Display tabs as
 " four characters wide.
 "set shiftwidth=4
 "set tabstop=4
+
+" Disable swap file creation
+set noswapfile

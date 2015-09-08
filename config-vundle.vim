@@ -40,9 +40,8 @@ filetype plugin indent on    " required
 "
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
+Plugin 'scrooloose/nerdtree'
 Plugin 'sickill/vim-monokai'
-Plugin 'Shougo/unite.vim'
-Plugin 'Shougo/vimfiler.vim'
 Plugin 'kien/ctrlp.vim'
 Plugin 'Shougo/neocomplete.vim'
 Plugin 'StanAngeloff/php.vim'
