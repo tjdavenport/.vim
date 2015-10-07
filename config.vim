@@ -76,3 +76,8 @@ set expandtab
 
 " Disable swap file creation
 set noswapfile
+
+" Set jade syntax on jade files
+autocmd BufNewFile,BufRead *.jade   set syntax=jade
+" Set handlebars syntax
+autocmd BufNewFile,BufRead *.handlebars   set syntax=mustache
