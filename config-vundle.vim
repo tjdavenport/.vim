@@ -42,11 +42,8 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 Plugin 'scrooloose/nerdtree'
 Plugin 'sickill/vim-monokai'
-Plugin 'kien/ctrlp.vim'
-" Plugin 'Shougo/neocomplete.vim'
+Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'StanAngeloff/php.vim'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'tpope/vim-fugitive'
 Plugin 'easymotion/vim-easymotion'
-Plugin 'digitaltoad/vim-jade'
-Plugin 'mustache/vim-mustache-handlebars'
