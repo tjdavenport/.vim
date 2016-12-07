@@ -81,3 +81,5 @@ set noswapfile
 autocmd BufNewFile,BufRead *.jade   set syntax=jade
 " Set handlebars syntax
 autocmd BufNewFile,BufRead *.handlebars   set syntax=mustache
+" allow for project-specific configuration
+set exrc
