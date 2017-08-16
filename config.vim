@@ -77,9 +77,7 @@ set expandtab
 " Disable swap file creation
 set noswapfile
 
-" Set jade syntax on jade files
-autocmd BufNewFile,BufRead *.jade   set syntax=jade
-" Set handlebars syntax
-autocmd BufNewFile,BufRead *.handlebars   set syntax=mustache
+" Set typescript syntax
+autocmd BufNewFile,BufRead *.ts   set syntax=typescript
 " allow for project-specific configuration
 set exrc
