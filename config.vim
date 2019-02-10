@@ -77,7 +77,5 @@ set expandtab
 " Disable swap file creation
 set noswapfile
 
-" Set typescript syntax
-autocmd BufNewFile,BufRead *.ts   set syntax=typescript
 " allow for project-specific configuration
 set exrc

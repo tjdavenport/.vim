@@ -17,8 +17,8 @@ Plugin 'jiangmiao/auto-pairs'
 Plugin 'tpope/vim-fugitive'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'embear/vim-localvimrc'
-Plugin 'leafgarland/typescript-vim'
 Plugin 'vim-scripts/bats.vim'
+Plugin 'pangloss/vim-javascript'
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
